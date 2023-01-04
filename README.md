@@ -7,5 +7,6 @@
 Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e fazer uso da melhor maneira dos poucos espaços disponíveis nas telas dos dispositivos móveis e auxiliar os usuários a realizarem suas desejadas tarefas.</p>
 
 <h2>Dispositivos móveis </h2>
-
+<div align="center">
 <img src="Screenshot_20230103-170610_Chrome.jpg" />
+</div>
