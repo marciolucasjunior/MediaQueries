@@ -8,7 +8,7 @@ Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e 
 
 <h2>Dispositivos móveis </h2>
 
-<img src="https://user-images.githubusercontent.com/109992150/210593174-9af26b9e-b027-43a5-ae66-79b9093bcebe.jpg"  width="800px" />
+<img src="https://user-images.githubusercontent.com/109992150/210593174-9af26b9e-b027-43a5-ae66-79b9093bcebe.jpg"  width="200px" />
 
 <img src="https://user-images.githubusercontent.com/109992150/210608150-910f88f9-9390-4cf1-a6d1-c12ad3b0968d.png" width="800px"  />
 
