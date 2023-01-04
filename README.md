@@ -8,6 +8,6 @@ Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e 
 
 <h2>Dispositivos móveis </h2>
 <div align="center">
-<img src="![Screenshot_20230103-170610_Chrome](https://user-images.githubusercontent.com/109992150/210591089-302bd469-ea00-43dc-9850-ee19dd3abaea.jpg)
+<img src="https://github.com/marciolucasjunior/MediaQueries/issues/1#issue-1517885943
 " />
 </div>
