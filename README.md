@@ -24,6 +24,12 @@ Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e 
  <h2>Televisor </h2>
 
  <img src="https://user-images.githubusercontent.com/109992150/210609958-ca1f76bd-fea6-4e57-954f-43b8810e35be.png" width="800px" />
+ 
+ <h1>Tecnologias utilizadas </h1>
+ HTML/CSS/MEDIA QUIRIES
+ 
+ <h1>Autor</h1>
+ Marcio Felisberto lucas junior
 
 
 
