@@ -8,6 +8,6 @@ Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e 
 
 <h2>Dispositivos móveis </h2>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/109992150/210593174-9af26b9e-b027-43a5-ae66-79b9093bcebe.jpg" heigth="500px" width="200px" />
+<img src="https://user-images.githubusercontent.com/109992150/210593174-9af26b9e-b027-43a5-ae66-79b9093bcebe.jpg"  width="300px" />
 </div>
- wi
+ 
