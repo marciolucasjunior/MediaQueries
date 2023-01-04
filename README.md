@@ -7,7 +7,7 @@
 Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e fazer uso da melhor maneira dos poucos espaços disponíveis nas telas dos dispositivos móveis e auxiliar os usuários a realizarem suas desejadas tarefas.</p>
 
 <h2>Dispositivos móveis </h2>
-<div aling="center" >
+<div align="center" >
 <img src="https://user-images.githubusercontent.com/109992150/210593174-9af26b9e-b027-43a5-ae66-79b9093bcebe.jpg"  width="280px" />
  </div>
  
