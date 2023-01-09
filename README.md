@@ -29,7 +29,7 @@ Quando projetamos primeiramente para mobile somos forçados a sermos sucintos e 
  
  <h2>Layout Televisor </h2>
 
- <img src="" width="800px" />
+ <img src="https://user-images.githubusercontent.com/109992150/211326796-ab3a67fb-56d4-4cdf-bf74-efbbe857c975.png" width="800px" />
  
  <h1>Tecnologias utilizadas </h1>
  HTML /CSS / MEDIA QUERIES
