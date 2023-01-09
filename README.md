@@ -1,5 +1,5 @@
 # MediaQueries
-<a href="https://github.com/marciolucasjunior/MediaQueries/blob/main/LICENSE"><img src="https://user-images.githubusercontent.com/109992150/210664502-0966a53d-1f9e-42e8-a4d7-605927c7cb5f.jpeg" width="80px" /></a>
+<a href="https://github.com/marciolucasjunior/MediaQueries/blob/main/LICENSE"><img src="https://user-images.githubusercontent.com/109992150/211327199-babe9405-4921-45b1-96a6-e59f295beec9.svg" width="80px" /></a>
 
  <h1>Sobre  o  Projeto   </h1>
  <a href="https://marciolucasjunior.github.io/MediaQueries/Mobile-First">acesse o projeto clicando aqui</a>
